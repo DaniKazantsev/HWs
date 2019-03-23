@@ -1,3 +1,4 @@
 # HWs
 Model in ModelX.ipynb
-/Lab in Recognizer_Lab.ipynb
+
+Lab in Recognizer_Lab.ipynb
